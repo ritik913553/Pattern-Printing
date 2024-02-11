@@ -1,2 +1,2 @@
 # Pattern-Printing
-Pattern printing code in c
+Pattern printing code in c (by Ritik gupta)
